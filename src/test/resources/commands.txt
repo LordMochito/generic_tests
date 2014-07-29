@@ -1,0 +1,2 @@
+find . -maxdepth 4 -type d > ~/folders.txt
+cat folders2.txt | cut -f 2,3,5 -d '/' | sort | uniq | grep -v VEJAY_FORRESTER | grep -v 3D | grep -v UMG | grep -v 'CLIENT LOGOS' | grep -v 'GLOBAL BRAND ASSETS' > folders_list.txt
