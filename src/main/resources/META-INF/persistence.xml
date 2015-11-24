@@ -1,8 +1,0 @@
-<persistence-unit name="test">
-<!-- dont need props here as configured in Spring -->
-
-<properties>
-
-</properties>
-
-</persistence-unit>
