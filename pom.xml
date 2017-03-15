@@ -8,8 +8,6 @@
 	<name>Gutmox generic tests</name>
 	<description>Gutmox generic tests</description>
 	<modules>
-		<!--module>algorithms</module-->
-		<!--module>anagram-game</module-->
 		<module>journal-ranking</module>
 		<module>supermarket-catalog</module>
 	</modules>
